@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="SYFA Carnet+">
+  <title>SYFA Carnet+</title>
+  <rect width="48" height="48" rx="12" fill="#0B6B5A"/>
+  <path d="M24 8.5 37.5 13.6V24c0 8.2-5.7 13.9-13.5 16.5C16.2 37.9 10.5 32.2 10.5 24V13.6Z" fill="#FFFFFF"/>
+  <rect x="22" y="16.5" width="4" height="15" rx="1" fill="#0B6B5A"/><rect x="16.5" y="22" width="15" height="4" rx="1" fill="#0B6B5A"/>
+</svg>
