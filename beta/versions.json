@@ -1,0 +1,22 @@
+{
+  "_note": "Source de la page /beta/. Renseigné à chaque publication d'une version (voir docs/beta/ANDROID_RELEASE.md du dépôt de l'application). Puis : node tools/build-beta.mjs",
+  "repo": "syfa05/syfacarnet-site",
+  "apps": {
+    "patient": {
+      "name": "SYFA Carnet+",
+      "package": "org.syfacarnet.patient",
+      "minAndroid": "8.0",
+      "certSha256": "",
+      "expected": { "fr": "vers le 10 décembre 2026", "en": "around 10 December 2026" },
+      "releases": []
+    },
+    "pro": {
+      "name": "SYFA Carnet+ Pro",
+      "package": "org.syfacarnet.pro",
+      "minAndroid": "8.0",
+      "certSha256": "",
+      "expected": { "fr": "vers le 17 décembre 2026", "en": "around 17 December 2026" },
+      "releases": []
+    }
+  }
+}
